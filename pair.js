@@ -40,7 +40,7 @@ const config = {
   NEWSLETTER_JID: '120363426451085584@newsletter',
   OTP_EXPIRY: 300000,
   WORK_TYPE: 'public',
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '94787940686','94787940686',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '94787940686',
   CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb7OtqeBPzjalZqMb81k',
   BOT_NAME: '✦ ━━ DCT MINI BOT ━━ ✦',
   BOT_VERSION: '1.0.0V',
